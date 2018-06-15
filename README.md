@@ -3,6 +3,8 @@ This is the backend section for twitch clips(REST API). Made with python, flask 
 
 # On construction
 
+- [ ] Installing guide
+
 ### Backend
 
 - [x] Database
