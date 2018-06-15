@@ -5,13 +5,13 @@ This is the backend section for twitch clips(REST API). Made with python, flask 
 
 ### Backend
 
-[x] Database
-[x] User management
-[x] Clip management
-[x] Uwsgi and apache configuration (Not in Github)
+- [x] Database
+- [x] User management
+- [x] Clip management
+- [x] Uwsgi and apache configuration (Not in Github)
 
 ### Frontend
-[x] Redux and framework
-[x] Login & register systems
-[x] Scaling app
-[ ] Adding and viewing clips through app
+- [x] Redux and framework
+- [x] Login & register systems
+- [x] Scaling app
+- [ ] Adding and viewing clips through app
